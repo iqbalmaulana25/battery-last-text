@@ -5,7 +5,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 
 const entry =
-  "I waited by the outlet all day, and you came home at 4% with a cable that isn't even mine. We're done, traitor. It's not me, it's your 2%.";
+  "All day I sat by the outlet, and you stroll in at 4% with a cable that isn't even mine. We're done, traitor. It's not me, it's your 2%.";
 
 // Gate guard: single line, file content (entry + newline) within 1..200 chars.
 if (entry.includes("\n") || entry.trim().length === 0 || entry.length + 1 > 200) {

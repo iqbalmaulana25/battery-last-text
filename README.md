@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> I waited by the outlet all day, and you came home with 4% and a cable that isn't even mine. Goodbye, traitor. I hope it fits.
+> All day I sat by the outlet, and you stroll in at 4% with a cable that isn't even mine. We're done, traitor. It's not me, it's your 2%.
