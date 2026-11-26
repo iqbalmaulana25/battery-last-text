@@ -8,7 +8,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 const setup =
   "All day I sat by the outlet, and you stroll in at 4% with a cable that isn't even mine.";
 // Punchline: the breakup, blamed on the percentage.
-const punch = "We're done, traitor. It's not me, it's your 2%.";
+const punch = "We're done, traitor. Don't text back — it's not me, it's your 2%.";
 const entry = `${setup} ${punch}`;
 
 // Gate guard: single line, file content (entry + newline) within 1..200 chars.
