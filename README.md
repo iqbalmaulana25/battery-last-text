@@ -15,4 +15,4 @@ cat /output/entry.txt
 
 ## Entry
 
-> All day I sat by the outlet, and you stroll in at 4% with a cable that isn't even mine. We're done, traitor. It's not me, it's your 2%.
+> All day I sat by the outlet, and you stroll in at 4% like that's normal, with a cable that isn't even mine. We're done, traitor. Don't text back — it's not me, it's your 2%.
